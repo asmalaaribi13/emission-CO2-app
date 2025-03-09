@@ -39,9 +39,3 @@ Before you begin, ensure you have the following installed:
 - 🐍 **pip** (Python package manager)
 - 📝 **Jupyter Notebook** (for running the analysis interactively)
 
-### Step 1: Clone the repository
-
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/asmalaaribi13/emission-CO2-app.git
